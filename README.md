@@ -1,5 +1,12 @@
-## Hi there 👋
+## Learning new stuff 🚀
 
+Learning more and more practical content about cloud thanks to Learn to Cloud great course. 
+
+Background and goal 🏁
+
+Contacts 📫
+
+aboubakar-ibrahime@outlook.fr
 <!--
 **brahimebk/brahimebk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
