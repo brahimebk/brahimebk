@@ -1,5 +1,5 @@
 ## Hi there, I'm Aboubakar 👋
-DevOps/Cloud Engineer in Training | AWS Certified Cloud Practitioner | Transitioning from QA Engineer to DevOps/Cloud
+DevOps/Cloud Engineer in Training | Transitioning from QA Engineer to DevOps/Cloud
 
 ## Connect with me 📫
 
