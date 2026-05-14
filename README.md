@@ -1,4 +1,4 @@
-## Hi there, I'm Aboubakar 👋
+## Hi there, I'm Aboubakar Ibrahime 👋
 DevOps/Cloud Engineer in Training | Transitioning from QA Engineer to DevOps/Cloud
 
 ## Connect with me 📫
@@ -37,7 +37,7 @@ Background and goal 🏁
 
 
 
-With 5+ years of experience as a QA Engineer, I am now focused on growing into DevOps and cloud engineering. Through an intensive Cloud Engineering program with [@learntocloud](https://github.com/learntocloud) , I am developing hands-on expertise across the modern cloud and DevOps toolchain, backed by a strong foundation in software quality, reliability, process improvement, attention to detail, and technical problem-solving.
+With 5+ years of experience as a QA Engineer, I am now focused on growing into DevOps and Cloud Engineering. Through an intensive Cloud Engineering program with [@learntocloud](https://github.com/learntocloud) , I am developing hands-on expertise across the modern cloud and DevOps toolchain, backed by a strong foundation in software quality, reliability, process improvement, attention to detail, and technical problem-solving.
 
 
 
@@ -58,6 +58,15 @@ I'm actively seeking opportunities to:
 - ☁️ Career transitions into DevOps/Cloud engineering
 - 🛠️ DevOps best practices and tooling
 - 🤝 Entry-level opportunities in DevOps
+
+---
+
+## What I'm Working On
+
+What I'm Working On
+- Preparing for the AWS Cloud Practitioner exam (CLF-C02)
+- Studying DevOps and Cloud Computing patterns: infrastructure automation, CI/CD workflows, cloud architecture, observability, and Infrastructure as Code.
+
 
 ---
 
